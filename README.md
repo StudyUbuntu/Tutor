@@ -23,6 +23,7 @@
   git clone https://github.com/UbuntuLeaner/UL.git
   `
 * 使用文本编辑器修改或拷贝文档到目录
+* 注册github帐号，并加入StudyUbuntu组织
 * 提交修改
 
   `
@@ -30,13 +31,13 @@
   `
 
   `
-  git push
+  git push origin master
   `
 
 #### 3. 学习使用markdown编辑文件，随意尝试。
 > 简易指导
 
-* 推荐ubuntu下使用atom编辑器
+* 推荐ubuntu下使用atom编辑器,可以一边预览markdown结果
 
   在[atom官网](https://atom.io)下载.deb安装包
 * 安装atom编辑器
@@ -49,4 +50,4 @@
 #### 群成员博客链接：
 > 格式：[群名片]（网站地址）。自行加入修改
 
-* [ipchy.net](ipchy.net)
+* [ipchy.net](http://ipchy.net)
